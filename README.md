@@ -50,11 +50,11 @@ Screenshots
 Home Page
 ![goshopping Interface](homeo.jpg)
 Product Listing
-
+![goshopping Interface](homeo2.jpg)
 Shopping Cart
-
+![goshopping Interface](buyo.jpg)
 Admin Dashboard
-
+![goshopping Interface](signo.jpg)
 Note: Ensure the screenshots directory contains the above images.
 
 ## Contributing
