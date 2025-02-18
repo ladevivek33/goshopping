@@ -46,6 +46,16 @@ GoShopping is a web-based shopping platform designed to provide users with a sea
    ```
 5. Open `http://localhost:8000/index.php` in your browser.
 
+Screenshots
+Home Page
+![Calculator Interface](img/homeo.jpg)
+Product Listing
+
+Shopping Cart
+
+Admin Dashboard
+
+Note: Ensure the screenshots directory contains the above images.
 
 ## Contributing
 Feel free to contribute by submitting pull requests.
