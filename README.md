@@ -48,7 +48,7 @@ GoShopping is a web-based shopping platform designed to provide users with a sea
 
 Screenshots
 Home Page
-![Calculator Interface](img/homeo.jpg)
+![goshopping Interface](homeo.jpg)
 Product Listing
 
 Shopping Cart
